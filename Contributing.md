@@ -1,7 +1,7 @@
 # CONTRIBUTION GUIDELINES
 
 ## Before contributing
-Welcome to [The Cryptography/C-Plus-Plus](https://github.com/The-Cryptography/C_Plus_Plus)! Before submitting pull requests, please make sure that you have **read the whole guidelines**. If you have any doubts about this contribution guide, please open [an issue](https://github.com/TheAlgorithms/C-Plus-Plus/issues/new/choose) and clearly state your concerns.
+Welcome to [The Cryptography/C-Plus-Plus](https://github.com/The-Cryptography/C_Plus_Plus)! Before submitting pull requests, please make sure that you have **read the whole guidelines**. If you have any doubts about this contribution guide, please open [an issue](https://github.com/The-Cryptography/C_Plus_Plus/issues/new) and clearly state your concerns.
 
 ## Contributing
 ### Contributor
@@ -35,7 +35,8 @@ We are very happy that you consider implementing algorithms and data structures 
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure. If you want to create a new directory, then please check if a similar category has been recently suggested or created by other pull requests.
 - If you have modified/added documentation, please ensure that your language is concise and contains no grammar errors.
 - Do not update README.md along with other changes, first create an issue and then link to that issue in your pull request to suggest specific changes required to README.md
-- The repository follows [Doxygen](https://www.doxygen.nl/manual/docblocks.html) standards and auto-generates the [repo website](https://thealgorithms.github.io/C-Plus-Plus). Please ensure the code is documented in this structure. Sample implementation is given below.
+- The repository follows [Doxygen](https://www.doxygen.nl/manual/docblocks.html) standards.
+Please ensure the code is documented in this structure. Sample implementation is given below.
 
 #### Test
 - Make sure to add examples and test cases in your main() function.
