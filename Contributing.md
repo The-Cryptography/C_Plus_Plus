@@ -8,7 +8,7 @@ Welcome to [The Cryptography/C-Plus-Plus](https://github.com/The-Cryptography/C_
 We are very happy that you consider implementing algorithms and data structures for others! This repository is referred to and used by learners from around the globe. Being one of our contributors, you agree and confirm that:
 - You did your own work.
     - No plagiarism allowed.  Any plagiarized work will not be merged.
-- Your work will be distributed under [MIT License](License) once your pull request has been merged.
+- Your work will be distributed under [MIT License](LICENSE) once your pull request has been merged.
 - You submitted work fulfils or mostly fulfils our styles and standards.
 
 **New implementation** New implementation are welcome!
